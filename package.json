@@ -1,16 +1,16 @@
 {
   "name": "hubot-meteoroloji",
   "description": "A hubot script that presents daily weather forecast from Turkish Meteoroloji Genel Müdürlüğü when someone typed `hava`",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Mehmet Ali Aydın <maaydin@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, meteoroloji, hava, hava durumu, mgm",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-meteoroloji.git"
+    "url": "git://github.com/kloia/hubot-meteoroloji.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-meteoroloji/issues"
+    "url": "https://github.com/kloia/hubot-meteoroloji/issues"
   },
   "dependencies": {},
   "peerDependencies": {
